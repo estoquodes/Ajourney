@@ -2,15 +2,15 @@
 
 ## 1
 
-P2 blocks awaiting data from P1
-P1 marks the starting time.
-P1 sends token to P2.
-P1 attempts to read a response token from P2. This induces a context switch.
-P2 is scheduled and receives the token.
-P2 sends a response token to P1.
-P2 attempts read a response token from P1. This induces a context switch.
-P1 is scheduled and receives the token.
-P1 marks the end time.
+1. P2 blocks awaiting data from P1.
+2. P1 marks the starting time.
+3. P1 sends token to P2.
+4. P1 attempts to read a response token from P2. This induces a context switch.
+5. P2 is scheduled and receives the token.
+6. P2 sends a response token to P1.
+7. P2 attempts read a response token from P1. This induces a context switch.
+8. P1 is scheduled and receives the token.
+9. P1 marks the end time.
 
 https://www.geeksforgeeks.org/measure-time-spent-context-switch/
 
