@@ -1,6 +1,6 @@
-# Context switch
+# 1. Context switch
 
-## 1
+## a) Procedure
 
 1. P2 blocks awaiting data from P1.
 2. P1 marks the starting time.
@@ -13,6 +13,12 @@
 9. P1 marks the end time.
 
 https://www.geeksforgeeks.org/measure-time-spent-context-switch/
+
+# 2. Last Level Cache (LLC)
+
+## a) General intro
+
+https://dl.acm.org/doi/10.1145/3302424.3303977
 
 # Perf
 
