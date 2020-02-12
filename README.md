@@ -20,6 +20,12 @@ https://www.geeksforgeeks.org/measure-time-spent-context-switch/
 
 https://dl.acm.org/doi/10.1145/3302424.3303977
 
+# 3. Read performance on mac OS X
+
+## a) Using Time Profiler in Instruments
+
+https://developer.apple.com/videos/play/wwdc2016/418/
+
 # Problems met
 
 ## a) on EC2 instance
@@ -31,25 +37,6 @@ https://github.com/microsoft/perfview/issues/974
 # Perf
 
 Perf is a profiler tool for Linux based system that abstracts away CPU hardware differences in Linux performance measurements and presents a simple commandline interface.
-
-## Installation
-
-Use command line in Linux system.
-
-```bash
-
-(the command)
-```
-
-## Usage
-
-```python
-import (library)
-```
-
-## Contributing
-
-Startup tool for the research travel.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
