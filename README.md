@@ -41,7 +41,7 @@ Cache is a Static RAM (SRAM), as compared to the system RAM, which is a Dynamic 
 
 https://www.makeuseof.com/tag/what-is-cpu-cache/
 
-## c)User-level threads....... with threads. - Paul Turner - Google
+## c) User-level threads....... with threads. - Paul Turner - Google
 
 https://www.youtube.com/watch?v=KXuZi9aeGTw&feature=youtu.be
 
