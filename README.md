@@ -26,6 +26,12 @@ https://dl.acm.org/doi/10.1145/3302424.3303977
 
 https://developer.apple.com/videos/play/wwdc2016/418/
 
+# 4. How Does CPU Cache Work and What Are L1, L2, and L3?
+
+## a)
+
+https://www.makeuseof.com/tag/what-is-cpu-cache/
+
 # Problems met
 
 ## a) on EC2 instance
