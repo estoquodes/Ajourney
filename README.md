@@ -45,17 +45,6 @@ https://www.makeuseof.com/tag/what-is-cpu-cache/
 
 https://www.youtube.com/watch?v=KXuZi9aeGTw&feature=youtu.be
 
-# Problems met
-
-## a) on EC2 instance
-
-## b) Virtual environment on Windows 10
-
-https://github.com/microsoft/perfview/issues/974
-
-# Perf
-
-Perf is a profiler tool for Linux based system that abstracts away CPU hardware differences in Linux performance measurements and presents a simple commandline interface.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
