@@ -28,9 +28,22 @@ https://developer.apple.com/videos/play/wwdc2016/418/
 
 # 4. How Does CPU Cache Work and What Are L1, L2, and L3?
 
-## a)
+## a) CPU Cache
+
+computer memory hierachy (fast to slow): 
+1) cache, closest to where the central processing occurs, being a part of the CPU itself.
+2) Random Access Memory, commonly known as the RAM.
+3) a primary storage, like a hard disk or an SSD, which stores the bulk of the data—the operating system and all the programs.
+
+Cache is a Static RAM (SRAM), as compared to the system RAM, which is a Dynamic RAM (DRAM). Static RAM is one that can hold data without needing to be constantly refreshed, unlike DRAM, which makes SRAM ideal to be used for cache.
+
+## b) CPU cache levels
 
 https://www.makeuseof.com/tag/what-is-cpu-cache/
+
+## c)User-level threads....... with threads. - Paul Turner - Google
+
+https://www.youtube.com/watch?v=KXuZi9aeGTw&feature=youtu.be
 
 # Problems met
 
