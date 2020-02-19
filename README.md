@@ -45,6 +45,11 @@ https://www.makeuseof.com/tag/what-is-cpu-cache/
 
 https://www.youtube.com/watch?v=KXuZi9aeGTw&feature=youtu.be
 
+# 5. 
+
+## a) 
+
+gcc -o pipe test_pipe.c -lpthread
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
